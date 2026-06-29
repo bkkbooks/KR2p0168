@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0168/chant/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 恒先恒先
+  hash: sha256:247d1a6b896a1d530e08f5fd13e267897b3150d37d7fe63f9accec74dcf39596
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0168_CHANT_001-1a.1-h}
+metadata:
+  title: 恒先
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0168.xml
+hash: sha256:786e37fe964d544dcbadaec5c2c687ca7f55ac658ec37817f32a5fc28340367c

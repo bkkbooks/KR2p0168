@@ -1,0 +1,95 @@
+canonical_identifier: bkk:krp/KR2p0168/v1
+canonical_location: https://kanripo.org/bkk/KR2p0168/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 恒先
+  identifiers:
+    krp: KR2p0168
+  tags:
+    kr-categories: KR2p
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0168.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR2p0168_001.yaml, hash: 'sha256:bb430adad08c7ec0f0e8e1492203ef14b8d8c7e086e87152d49cfc3d1e18a45d'}
+  - {seq: 2, filename: KR2p0168_002.yaml, hash: 'sha256:de5873ea16b51f3165808f2fd9a7144eb2d123fa209951a07f23b00e9fd4e42e'}
+  - {seq: 3, filename: KR2p0168_003.yaml, hash: 'sha256:73cce47e1e97e86e17fee8cb06c74aa0a862f290a777e2cbc8b67ed7f9868655'}
+  - {seq: 4, filename: KR2p0168_004.yaml, hash: 'sha256:6ba39329acf6cdff95694c35fe79c235fc200a4a102aef2a5315e2601f56a247'}
+  - {seq: 5, filename: KR2p0168_005.yaml, hash: 'sha256:3db4619a9b3a9f224fbf0ec9314767100623715e6d8a7748d547989e644fa41b'}
+  - {seq: 6, filename: KR2p0168_006.yaml, hash: 'sha256:d16aa819b776ced9066d96b10d6a6ad6eddf329fd09e3bbb87bec14f8fd0e1be'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR2p0168_001.markers.yaml, hash: 'sha256:cd1d034431fc50b510fddf0772c9c32e969d710b704d8b21dc3eda87ba4f5071'}
+  - {seq: 2, role: markers, filename: assets/KR2p0168_002.markers.yaml, hash: 'sha256:8b0e9e9c4db28871855fd78eaec439e7dda3c1b77373cf8c5fe31b4df8be1d84'}
+  - {seq: 3, role: markers, filename: assets/KR2p0168_003.markers.yaml, hash: 'sha256:6fafce37e4836a359d1a830f3eacf1760edf64a274a18412679a15cc2dfce82b'}
+  - {seq: 4, role: markers, filename: assets/KR2p0168_004.markers.yaml, hash: 'sha256:61ef3570c6cdf76b383a80d90105891b6074801aee287e72b2745d7c8d782270'}
+  - {seq: 6, role: markers, filename: assets/KR2p0168_006.markers.yaml, hash: 'sha256:10ab85d29f547c720b2d71fe41a2a4fae3da1925fd69843d8d0a24dad0396a98'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR2p0168_CHANT_001-1a.1-h
+    span:
+    - body
+    - 0
+    - 4
+  label: 恒先
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR2p0168_CHANT_002-1a.1-h
+    span:
+    - body
+    - 0
+    - 44
+  label: 一
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR2p0168_CHANT_003-1a.1-h
+    span:
+    - body
+    - 0
+    - 124
+  label: 二
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR2p0168_CHANT_004-1a.1-h
+    span:
+    - body
+    - 0
+    - 104
+  label: 三
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: KR2p0168_CHANT_005-1a.1-h
+    span:
+    - body
+    - 0
+    - 67
+  label: 四
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR2p0168_CHANT_006-1a.1-h
+    span:
+    - body
+    - 0
+    - 180
+  label: 五
+  type: section
+  level: 1
+hash: sha256:9fa33036ea2916fbd7f1453f7a52ebbed2aef5c1073476322b59263ece390b27
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

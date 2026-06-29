@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR2p0168/chant/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四有出於域性出於有意出於性言出於意名出於言事出於名或非或無謂或有非有無謂有性非性無謂性意非意無謂意言非言無謂言名非名無謂名事非事無謂事
+  hash: sha256:ec4c75544c1f05ba31f1f1396ca2bc65c64bb69e427b69f404f1af3f2a8655ff
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR2p0168_CHANT_005-1a.1-h}
+metadata:
+  title: 恒先
+  edition:
+    short: chant
+  source:
+    repository: tls-texts
+    path: data/tls/KR2p0168.xml
+hash: sha256:3db4619a9b3a9f224fbf0ec9314767100623715e6d8a7748d547989e644fa41b
