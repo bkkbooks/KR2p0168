@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 二往者未有天地未有作行出生虛靜為一若寂夢夢靜同而未有明未有滋生氣實自生恆莫生氣氣是自生自作恆氣之生不獨有與也域恆焉生域者同焉昏昏不寧求其所生異生異歸生歸違生違悲生悲依生依求欲自復復生之生行濁氣生地清氣生天氣信神哉藝藝相生信盈天地同出而異性因生其所欲
-  hash: sha256:a493af14c2c0912d409c9bbc3980ba4598ea17b2d052acd20b715277132d02c6
+  text: 二往者未有天地未有作行出生虛靜為一若寂夢夢靜同而未有明未有滋生氣寔自生恒莫生氣氣是自生自作恒氣之生不獨有與也域恒焉生域者同焉昏昏不寧求其所生異生異歸生歸違生違悲生悲依生依求欲自復復生之生行濁氣生地清氣生天氣信神哉芸芸相生信盈天地同出而異性因生其所欲
+  hash: sha256:21b29908fc2f547e73f9d87fe1aadca2531806dbbfc31b491d8f9dfec7a8dfcf
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0168_CHANT_003-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0168.xml
-hash: sha256:73cce47e1e97e86e17fee8cb06c74aa0a862f290a777e2cbc8b67ed7f9868655
+hash: sha256:cd79884aeaab77bcd2ea6148da8652977971ead2253cbcd6f2afbebe4e4c9ccf
