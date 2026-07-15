@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 三察察天地紛紛而多彩物先者有善有治無亂有人焉有不善亂出於人先有中焉有外先有小焉有大先有柔焉有剛先有圓焉有方先有晦焉有明先有短焉有長天地既載唯一以猶一唯復以猶復恒氣之生因復其所欲明明天行唯復以不廢智既而亡思不天
-  hash: sha256:79d4890ecfaa457c50c65be4afe81dbecedbb18cd9453d0e963f639fcb5827d2
+  text: 三察察天地紛紛而多彩物先者有善有治無亂有人焉有不善亂出於人先有中焉有外先有小焉有大先有柔焉有剛先有圓焉有方先有晦焉有明先有短焉有長天地既載唯一以猶一唯復以猶復恆氣之生因復其所欲明明天行唯復以不廢智既而亡思不天
+  hash: sha256:d02eaffed676472c2d5b183f8eab6680bf4f9e6ed6b591c9dc6ca3be99fd6a55
   markers:
   - {type: 'tls:head', offset: 0, content: '', id: KR2p0168_CHANT_004-1a.1-h}
 metadata:
@@ -15,4 +15,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR2p0168.xml
-hash: sha256:0e1f6722d584fa7c6b3b0c6cfc673ca590dd0ae5e5e4a285a8b895cfd9032e2d
+hash: sha256:6ba39329acf6cdff95694c35fe79c235fc200a4a102aef2a5315e2601f56a247

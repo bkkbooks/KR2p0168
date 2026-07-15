@@ -3,9 +3,11 @@ seq: 1
 markers:
   front: []
   body:
+  - {type: substitution, offset: 0, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20663}}
   - {type: xml-element, offset: 2, content: '', id: KR2p0168_CHANT_001-bkkxmlele1, name: p, role: open}
   - {type: 'tls:seg', offset: 2, content: '', id: KR2p0168_CHANT_001-1a.1}
   - {type: 'tls:seg', offset: 2, content: '', id: KR2p0168_CHANT_001-1a.2}
+  - {type: substitution, offset: 2, original: 恒, replacement: 恆, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20663}}
   - {type: xml-element, offset: 4, content: '', id: KR2p0168_CHANT_001-bkkxmlele2, name: p, role: close}
   back: []
-hash: sha256:3472644f3f397c5b456736a27ad62de3d8cb52e21d2fa2ce375f32b515096ef3
+hash: sha256:9064a9f26a43ab5d0e462df96d7734cdd7d95b2e925329d84320703e8d85996a
